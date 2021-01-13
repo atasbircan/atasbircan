@@ -1,6 +1,4 @@
 ### Hi there 👋
-### Welcome To My Github Page :)
-
 
 <img src = "github.gif" width="100">
 
