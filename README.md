@@ -2,6 +2,7 @@
 ### Welcome To My Github Page :)
 
 ![alt text](github.gif)
+<img src = "github.gif" width="100">
 
 <!--
 **atasbircan/atasbircan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
