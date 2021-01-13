@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome To My Github Page :)
 
-![alt text](github.gif)
+
 <img src = "github.gif" width="100">
 
 <!--
