@@ -1,6 +1,28 @@
-### Hi there 👋
+<html>
+<body>
+<h1 style="color:blue;font-size:50px;font-style:oblique">
+<p align="center">
+	<img align="center" src="github.gif" width="50px"> <b><i> Hi there</b></i><img align="center" src="github.gif" width="50px"> </h1>
+</html>
+</body>
 
-<img src = "github.gif" width="100">
+
+<!--END_SECTION:waka-->
+
+
+ 
+<html>
+<body>
+<h2 style="color:blue;font-size 50px">
+<b>📫 Contact me (Click png)</b></h2>
+</html>
+</body>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bircan-ata%C5%9F-059880168/"><img height="40px" alt="LinkedIn" src="Lkdn2.jpg"></a>
+ <a href="https://www.instagram.com/atasbircan/"><img height="40px" alt="Instagram" src="İnsta.jpg"></a>
+<a href="mailto:atas.bircan@hotmail.com"><img height="40px" alt="Email" src="mail.jpg"></a>
+</p>
 
 <!--
 **atasbircan/atasbircan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
