@@ -14,7 +14,7 @@
 <html>
 <body>
 <h2 style="color:blue;font-size 50px">
-<b>📫 Contact me (Click png)</b></h2>
+<b>📫 Contact me </b></h2>
 </html>
 </body>
 
