@@ -14,7 +14,7 @@
 <html>
 <body>
 <h2 style="color:blue;font-size 50px">
-<b>📫 Contact me ʕ•ᴥ•ʔ </b></h2>
+<b>📫 Contact me •ᴗ• </b></h2>
 </html>
 </body>
 
