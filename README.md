@@ -19,9 +19,9 @@
 </body>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bircan-ata%C5%9F-059880168/"><img height="40px" alt="LinkedIn" src="Lkdn2.jpg"></a>
- <a href="https://www.instagram.com/atasbircan/"><img height="40px" alt="Instagram" src="inslogo.png"></a>
-<a href="mailto:atas.bircan@hotmail.com"><img height="40px" alt="Email" src="maillogo.png"></a>
+<a href="https://www.linkedin.com/in/bircan-ata%C5%9F-059880168/"><img height="40px" alt="LinkedIn" src="Linkedin.jpeg"></a>
+ <a href="https://www.instagram.com/atasbircan/"><img height="40px" alt="Instagram" src="instagram.jpg"></a>
+<a href="mailto:atas.bircan@hotmail.com"><img height="40px" alt="Email" src="mail.jpg"></a>
 </p>
 
 <!--
